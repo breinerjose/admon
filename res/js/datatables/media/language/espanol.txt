@@ -1,0 +1,19 @@
+{
+	"sProcessing": "Procesando...",
+	"sLengthMenu": "_MENU_ Entradas",
+	"sZeroRecords": "No existen registros que coincidan.",
+	"sInfo": "Mostrando _START_ a _END_ de _TOTAL_ Entradas",
+	"sInfoEmpty": "Mostrando 0 a 0 de 0 entrada",
+	"sInfoFiltered": "(Filtrado de _MAX_  Entradas)",
+	"sInfoPostFix": "",
+	"sSearch": "Buscar",
+	"sUrl": "",
+	"oPaginate": {
+		"sFirst":    "Primer",
+		"sPrevious": "Ant",
+		"sNext":     "Sig",
+		"sLast":     "Última"
+	}
+}
+
+

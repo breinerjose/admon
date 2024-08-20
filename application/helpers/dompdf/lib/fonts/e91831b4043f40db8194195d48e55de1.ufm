@@ -1,0 +1,237 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment http://php-font-lib.googlecode.com/
+EncodingScheme FontSpecific
+Copyright Copyright (c) 1999-2005 IDAutomation.com, Inc. [A license is required for each computer using this font.]
+FontName IDAutomationC128XL
+FontSubfamily Regular
+UniqueID IDAutomation: IDAutomationC128XL: 2005
+FullName IDAutomationC128XL
+Version Version 5.1 2005
+PostScriptName IDAutomationC128XL
+Trademark IDAutomationC128XL is a trademark of IDAutomation.
+Manufacturer IDAutomation
+Designer IDAutomation.com, Inc.
+FontVendorURL http://www.idautomation.com/
+FontDesignerURL http://www.idautomation.com/
+LicenseDescription A license is required for each computer using this font. This font is protected by several registrations on file at the US Copyright Office. Do not make illegal copies of this font. The origins of this font can be determined even when copied, modified, resized or merged with font editing software. IDAutomation.com will take legal action against all counterfeiters and prosecute to the fullest extent of the law. This software may only be used according to the license agreement located at http://www.idautomation.com/licenses.html
+LicenseURL http://www.idautomation.com/licenses.html
+PreferredFamily IDAutomationC128XL
+PreferredSubfamily Regular
+CompatibleFullName IDAutomationC128XL
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 50
+UnderlinePosition -55
+FontHeightOffset 341
+Ascender 4552
+Descender -100
+FontBBox 2 0 782 4555
+StartCharMetrics 219
+U 32 ; WX 664 ; N space ; G 3
+U 33 ; WX 664 ; N exclam ; G 4
+U 34 ; WX 664 ; N quotedbl ; G 5
+U 35 ; WX 664 ; N numbersign ; G 6
+U 36 ; WX 664 ; N dollar ; G 7
+U 37 ; WX 664 ; N percent ; G 8
+U 38 ; WX 664 ; N ampersand ; G 9
+U 39 ; WX 664 ; N quotesingle ; G 10
+U 40 ; WX 664 ; N parenleft ; G 11
+U 41 ; WX 664 ; N parenright ; G 12
+U 42 ; WX 664 ; N asterisk ; G 13
+U 43 ; WX 664 ; N plus ; G 14
+U 44 ; WX 664 ; N comma ; G 15
+U 45 ; WX 664 ; N hyphen ; G 16
+U 46 ; WX 664 ; N period ; G 17
+U 47 ; WX 664 ; N slash ; G 18
+U 48 ; WX 664 ; N zero ; G 19
+U 49 ; WX 664 ; N one ; G 20
+U 50 ; WX 664 ; N two ; G 21
+U 51 ; WX 664 ; N three ; G 22
+U 52 ; WX 664 ; N four ; G 23
+U 53 ; WX 664 ; N five ; G 24
+U 54 ; WX 664 ; N six ; G 25
+U 55 ; WX 664 ; N seven ; G 26
+U 56 ; WX 664 ; N eight ; G 27
+U 57 ; WX 664 ; N nine ; G 28
+U 58 ; WX 664 ; N colon ; G 29
+U 59 ; WX 664 ; N semicolon ; G 30
+U 60 ; WX 664 ; N less ; G 31
+U 61 ; WX 664 ; N equal ; G 32
+U 62 ; WX 664 ; N greater ; G 33
+U 63 ; WX 664 ; N question ; G 34
+U 64 ; WX 664 ; N at ; G 35
+U 65 ; WX 664 ; N A ; G 36
+U 66 ; WX 664 ; N B ; G 37
+U 67 ; WX 664 ; N C ; G 38
+U 68 ; WX 664 ; N D ; G 39
+U 69 ; WX 664 ; N E ; G 40
+U 70 ; WX 664 ; N F ; G 41
+U 71 ; WX 664 ; N G ; G 42
+U 72 ; WX 664 ; N H ; G 43
+U 73 ; WX 664 ; N I ; G 44
+U 74 ; WX 664 ; N J ; G 45
+U 75 ; WX 664 ; N K ; G 46
+U 76 ; WX 664 ; N L ; G 47
+U 77 ; WX 664 ; N M ; G 48
+U 78 ; WX 664 ; N N ; G 49
+U 79 ; WX 664 ; N O ; G 50
+U 80 ; WX 664 ; N P ; G 51
+U 81 ; WX 664 ; N Q ; G 52
+U 82 ; WX 664 ; N R ; G 53
+U 83 ; WX 664 ; N S ; G 54
+U 84 ; WX 664 ; N T ; G 55
+U 85 ; WX 664 ; N U ; G 56
+U 86 ; WX 664 ; N V ; G 57
+U 87 ; WX 664 ; N W ; G 58
+U 88 ; WX 664 ; N X ; G 59
+U 89 ; WX 664 ; N Y ; G 60
+U 90 ; WX 664 ; N Z ; G 61
+U 91 ; WX 664 ; N bracketleft ; G 62
+U 92 ; WX 664 ; N backslash ; G 63
+U 93 ; WX 664 ; N bracketright ; G 64
+U 94 ; WX 664 ; N asciicircum ; G 65
+U 95 ; WX 664 ; N underscore ; G 66
+U 96 ; WX 664 ; N grave ; G 67
+U 97 ; WX 664 ; N a ; G 68
+U 98 ; WX 664 ; N b ; G 69
+U 99 ; WX 664 ; N c ; G 70
+U 100 ; WX 664 ; N d ; G 71
+U 101 ; WX 664 ; N e ; G 72
+U 102 ; WX 664 ; N f ; G 73
+U 103 ; WX 664 ; N g ; G 74
+U 104 ; WX 664 ; N h ; G 75
+U 105 ; WX 664 ; N i ; G 76
+U 106 ; WX 664 ; N j ; G 77
+U 107 ; WX 664 ; N k ; G 78
+U 108 ; WX 664 ; N l ; G 79
+U 109 ; WX 664 ; N m ; G 80
+U 110 ; WX 664 ; N n ; G 81
+U 111 ; WX 664 ; N o ; G 82
+U 112 ; WX 664 ; N p ; G 83
+U 113 ; WX 664 ; N q ; G 84
+U 114 ; WX 664 ; N r ; G 85
+U 115 ; WX 664 ; N s ; G 86
+U 116 ; WX 664 ; N t ; G 87
+U 117 ; WX 664 ; N u ; G 88
+U 118 ; WX 664 ; N v ; G 89
+U 119 ; WX 664 ; N w ; G 90
+U 120 ; WX 664 ; N x ; G 91
+U 121 ; WX 664 ; N y ; G 92
+U 122 ; WX 664 ; N z ; G 93
+U 123 ; WX 664 ; N braceleft ; G 94
+U 124 ; WX 664 ; N bar ; G 95
+U 125 ; WX 664 ; N braceright ; G 96
+U 126 ; WX 664 ; N asciitilde ; G 97
+U 160 ; WX 664 ; N nbspace ; G 98
+U 180 ; WX 664 ; N acute ; G 215
+U 194 ; WX 664 ; N Acircumflex ; G 131
+U 195 ; WX 664 ; N Atilde ; G 100
+U 196 ; WX 664 ; N Adieresis ; G 133
+U 197 ; WX 664 ; N Aring ; G 102
+U 198 ; WX 664 ; N AE ; G 103
+U 199 ; WX 664 ; N Ccedilla ; G 136
+U 200 ; WX 664 ; N Egrave ; G 105
+U 201 ; WX 664 ; N Eacute ; G 138
+U 202 ; WX 664 ; N Ecircumflex ; G 107
+U 203 ; WX 664 ; N Edieresis ; G 140
+U 204 ; WX 664 ; N Igrave ; G 109
+U 205 ; WX 664 ; N Iacute ; G 142
+U 206 ; WX 1207 ; N Icircumflex ; G 143
+U 214 ; WX 664 ; N Odieresis ; G 112
+U 220 ; WX 664 ; N Udieresis ; G 113
+U 224 ; WX 664 ; N agrave ; G 114
+U 225 ; WX 664 ; N aacute ; G 115
+U 226 ; WX 664 ; N acircumflex ; G 116
+U 227 ; WX 664 ; N atilde ; G 117
+U 228 ; WX 664 ; N adieresis ; G 118
+U 229 ; WX 664 ; N aring ; G 119
+U 231 ; WX 664 ; N ccedilla ; G 120
+U 232 ; WX 664 ; N egrave ; G 121
+U 233 ; WX 664 ; N eacute ; G 122
+U 234 ; WX 664 ; N ecircumflex ; G 123
+U 235 ; WX 1207 ; N edieresis ; G 124
+U 258 ; WX 664 ; N Abreve ; G 132
+U 262 ; WX 664 ; N Cacute ; G 135
+U 268 ; WX 664 ; N Ccaron ; G 137
+U 280 ; WX 664 ; N Eogonek ; G 139
+U 282 ; WX 664 ; N Ecaron ; G 141
+U 313 ; WX 664 ; N Lacute ; G 134
+U 376 ; WX 664 ; N Ydieresis ; G 125
+U 710 ; WX 664 ; N circumflex ; G 209
+U 732 ; WX 664 ; N tilde ; G 213
+U 914 ; WX 664 ; N Beta ; G 157
+U 915 ; WX 664 ; N Gamma ; G 158
+U 916 ; WX 664 ; N Delta ; G 159
+U 917 ; WX 664 ; N Epsilon ; G 160
+U 918 ; WX 664 ; N Zeta ; G 161
+U 919 ; WX 664 ; N Eta ; G 162
+U 920 ; WX 664 ; N Theta ; G 163
+U 921 ; WX 664 ; N Iota ; G 164
+U 922 ; WX 664 ; N Kappa ; G 165
+U 923 ; WX 664 ; N Lambda ; G 166
+U 924 ; WX 664 ; N Mu ; G 167
+U 925 ; WX 664 ; N Nu ; G 168
+U 926 ; WX 1207 ; N Xi ; G 169
+U 1042 ; WX 664 ; N uni0412 ; G 144
+U 1043 ; WX 664 ; N uni0413 ; G 145
+U 1044 ; WX 664 ; N uni0414 ; G 146
+U 1045 ; WX 664 ; N uni0415 ; G 147
+U 1046 ; WX 664 ; N uni0416 ; G 148
+U 1047 ; WX 664 ; N uni0417 ; G 149
+U 1048 ; WX 664 ; N uni0418 ; G 150
+U 1049 ; WX 664 ; N uni0419 ; G 151
+U 1050 ; WX 664 ; N uni041A ; G 152
+U 1051 ; WX 664 ; N uni041B ; G 153
+U 1052 ; WX 664 ; N uni041C ; G 154
+U 1053 ; WX 664 ; N uni041D ; G 155
+U 1054 ; WX 1207 ; N uni041E ; G 156
+U 1458 ; WX 664 ; N uni05B2 ; G 170
+U 1459 ; WX 664 ; N uni05B3 ; G 171
+U 1460 ; WX 664 ; N uni05B4 ; G 172
+U 1461 ; WX 664 ; N uni05B5 ; G 173
+U 1462 ; WX 664 ; N uni05B6 ; G 174
+U 1463 ; WX 664 ; N uni05B7 ; G 175
+U 1464 ; WX 664 ; N uni05B8 ; G 176
+U 1465 ; WX 664 ; N uni05B9 ; G 177
+U 1466 ; WX 664 ; N .notdef ; G 178
+U 1467 ; WX 664 ; N uni05BB ; G 179
+U 1468 ; WX 664 ; N uni05BC ; G 180
+U 1469 ; WX 664 ; N uni05BD ; G 181
+U 1470 ; WX 1207 ; N uni05BE ; G 182
+U 1570 ; WX 664 ; N uni0622 ; G 183
+U 1571 ; WX 664 ; N uni0623 ; G 184
+U 1572 ; WX 664 ; N afii57412 ; G 185
+U 1573 ; WX 664 ; N uni0625 ; G 186
+U 1574 ; WX 664 ; N afii57414 ; G 187
+U 1575 ; WX 664 ; N uni0627 ; G 188
+U 1576 ; WX 664 ; N uni0628 ; G 189
+U 1577 ; WX 664 ; N uni0629 ; G 190
+U 1578 ; WX 664 ; N uni062A ; G 191
+U 1579 ; WX 664 ; N uni062B ; G 192
+U 1580 ; WX 664 ; N uni062C ; G 193
+U 1581 ; WX 664 ; N uni062D ; G 194
+U 1582 ; WX 1207 ; N uni062E ; G 195
+U 8211 ; WX 664 ; N endash ; G 211
+U 8212 ; WX 664 ; N emdash ; G 212
+U 8216 ; WX 664 ; N quoteleft ; G 214
+U 8217 ; WX 664 ; N quoteright ; G 216
+U 8220 ; WX 664 ; N quotedblleft ; G 217
+U 8221 ; WX 664 ; N quotedblright ; G 218
+U 8722 ; WX 664 ; N minus ; G 210
+U 65410 ; WX 664 ; N .notdef ; G 196
+U 65411 ; WX 664 ; N .notdef ; G 197
+U 65412 ; WX 664 ; N .notdef ; G 198
+U 65413 ; WX 664 ; N .notdef ; G 199
+U 65414 ; WX 664 ; N .notdef ; G 200
+U 65415 ; WX 664 ; N .notdef ; G 201
+U 65416 ; WX 664 ; N .notdef ; G 202
+U 65417 ; WX 664 ; N .notdef ; G 203
+U 65418 ; WX 664 ; N .notdef ; G 204
+U 65419 ; WX 664 ; N .notdef ; G 205
+U 65420 ; WX 664 ; N .notdef ; G 206
+U 65421 ; WX 664 ; N .notdef ; G 207
+U 65422 ; WX 1207 ; N .notdef ; G 208
+EndCharMetrics
+EndFontMetrics
